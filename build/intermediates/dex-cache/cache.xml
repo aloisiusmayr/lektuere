@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/amayr/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/amayr/AndroidStudioProjects/CardViewTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_96e39ffc653f1d71d1ab9f75d7efe061455aee3b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amayr/AndroidStudioProjects/CardViewTutorial/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/amayr/AndroidStudioProjects/CardViewTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_2f565ca7f1b17b45d26c4440c859e0c0b9d36e36/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amayr/AndroidStudioProjects/CardViewTutorial/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="bb595b58e4c48adaf4eddfc39986086e427eef3d">
+        <dex dex="/Users/amayr/AndroidStudioProjects/CardViewTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ccefae4f4be529db17679dcbc25cf91bde329e09/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amayr/AndroidStudioProjects/CardViewTutorial/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b56ee68bd0506df1d88acf8fd1ce63585be572e1">
+        <dex dex="/Users/amayr/AndroidStudioProjects/CardViewTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_327c4b8aa721f1890aaf6b288b20d80322680cca/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amayr/AndroidStudioProjects/CardViewTutorial/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/amayr/AndroidStudioProjects/CardViewTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_5c346472764f97d662597f834b7cdbb766c305e3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amayr/AndroidStudioProjects/CardViewTutorial/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/amayr/AndroidStudioProjects/CardViewTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_513910585a4580160918c8cd58ce4d2acdc57585/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amayr/AndroidStudioProjects/CardViewTutorial/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/amayr/AndroidStudioProjects/CardViewTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_9d9cd628668ab7ec00bbb57346968c023262ae75/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amayr/AndroidStudioProjects/CardViewTutorial/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/amayr/AndroidStudioProjects/CardViewTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_7b3da225c07b1ca243f21dcb595852d8c5dd943a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/amayr/AndroidStudioProjects/CardViewTutorial/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/amayr/AndroidStudioProjects/CardViewTutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_a79e1927c0bbe3feddd43f7174b9570b56ffc405/classes.dex" />
+    </item>
+
+</items>
